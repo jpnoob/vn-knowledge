@@ -1,6 +1,7 @@
 my notes about visual novel file formats, with a focus on translating from
 japanese to english and have the result be playable
 
+advhd (very workable)
 artemis (looks extremely workable)
 bgi (very workable)
 catsystem2 (very workable)
@@ -11,4 +12,3 @@ yuka system (workable)
 
 yu-ris (i only took a brief look, but it looks cumbersome, some tools that don't work and lots of stuff without documentation)
 malie (i only took a very brief look, but it looks very tricky)
-advhd (haven't tried yet)
