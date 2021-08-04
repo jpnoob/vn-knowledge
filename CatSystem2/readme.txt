@@ -1,4 +1,5 @@
-all games:
+all games
+- tested on aibeya 2 trial
 
 link to tools:
 https://github.com/morkt/GARbro

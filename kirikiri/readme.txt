@@ -1,5 +1,5 @@
 all games
-- findings based on hare tokidoki otenkiame trial 1
+- findings based on hare tokidoki otenkiame trial 1 (no encryption)
 
 link to tools:
 https://github.com/morkt/GARbro

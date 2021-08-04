@@ -26,6 +26,6 @@ known issues:
 - game doesn't wordwrap english sentences automatically. 50 chars per line
   with english text worked for lover able trial1 (the game uses monofont, so
   50 chars will probably always work, but i only tried once to wordwrap).
-  \n doesn't work
+  \n doesn't work. TODO try 0d or 0a
 
 TODO read the lover able fan translation blog, it has technical info

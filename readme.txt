@@ -3,7 +3,7 @@ japanese to english and have the result be playable
 
 advhd (very workable)
 artemis (looks extremely workable)
-bgi (very workable)
+bgi (pretty workable, but can't change system images/text)
 catsystem2 (very workable)
 kirikiri (very workable for some games, decrypter must exist)
 musica (very workable for games where depacker exists (not so many))
