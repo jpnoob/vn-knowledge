@@ -35,7 +35,7 @@ unsolved stuff:
 
 unknown info:
 - i used ethornelltools/bgidisassembler to disassemble the ._bp files in
-  sysprg.arc. haven't really looked at these files. it also seems bgidecoder
+  sysprg.arc. haven't really looked at these files. it also seems bgidecode
   doesn't like these files (and bgidisassembler doesn't like the normal script
   files)
 - the binary script files are in some kind of "assembly language" format:

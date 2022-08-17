@@ -1,5 +1,6 @@
 all games
-- findings based on looking at aikagi 2 trial, aibeya trial, imouto spiral trial
+- findings based on looking at aikagi 2 trial, aibeya trial, aikagi 3,
+  imouto spiral trial
 
 link to tools:
 https://github.com/morkt/GARbro
@@ -14,7 +15,7 @@ known info:
 - script files are in plaintext .ast files, easily editable (akiagi 2/aibeya)
 - script files are in plaintext .txt files (imouto spiral)
 -------------------------------------------------------------------------------
-aikagi 2/aibeya
+aikagi 2/aikagi 3/aibeya
 - stuff looks so edit-friendly in general that i wouldn't be
   surprised if it is feasible to create a visual novel from scratch
 - the script format puts every line of the script into double quotes. to use
@@ -27,10 +28,11 @@ aikagi 2/aibeya
   like the title screen, options screen etc
 - seems we can add/change splash screens (and voice lines played during them)
   by editing script/brandlogo.ast
+- can't add comments with semicolon (i tried in aikagi 3, the game crashed)
 -------------------------------------------------------------------------------
-imouto spiral
+imouto spiral trial
 
-TODO i have yet to take a closer look
+TODO only took a super-quick look, was able to change text
 -------------------------------------------------------------------------------
 ixshe tell
 

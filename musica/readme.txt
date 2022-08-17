@@ -63,3 +63,14 @@ Sono Hi no Kemono ni wa,
 
 this engine looks harder than usual to work with, especially finding out how
 to unpack archive files from games that aren't supported
+-------------------------------------------------------------------------------
+how to find keys for unsupported games
+https://github.com/Inori/FuckGalEngine/issues/37
+
+need to find crud, toc_key, dat_key
+
+how to find crud:
+https://github.com/Inori/FuckGalEngine/blob/master/Minori/note.txt#L17
+
+how to find toc_key, dat_key: (ollydbg script i guess)
+https://github.com/Inori/FuckGalEngine/blob/master/Minori/get_key.osc
